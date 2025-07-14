@@ -1,0 +1,20 @@
+.banner{
+  
+    display: flex;
+    justify-content: space-between;
+    padding: 40px 40px;
+    
+    
+}
+.btn{
+    color: white;
+    height: 48px;
+    width: 132px;
+    background-color: #4E47FF;
+    border:none;
+    border-radius: 0px;
+    opacity: 100%;
+}
+.head{
+    color: #4E47FF;
+}
