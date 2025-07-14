@@ -2,19 +2,48 @@
   
     display: flex;
     justify-content: space-between;
-    padding: 40px 40px;
-    
-    
+    padding: 60px 190px;
+    padding-bottom: 80px;
 }
+header{
+
+background-image: url('./images/Hero-bg.png');
+}
+
+
+
 .btn{
     color: white;
     height: 48px;
     width: 132px;
     background-color: #4E47FF;
     border:none;
-    border-radius: 0px;
+    border-radius: 10px;
     opacity: 100%;
 }
 .head{
     color: #4E47FF;
+    font-size: xx-large;
+    
+}
+.title{
+    
+   
+   margin-top: 100px;
+   font-size: xx-large;
+ 
+    text-align: center;
+    
+    
+}
+
+.btn-2{
+     color: white;
+    height: 48px;
+    width: 174px;
+    background-color: #4E47FF;
+    border:none;
+    border-radius: 10px;
+    opacity: 100%;
+    margin-bottom: 180px;
 }
