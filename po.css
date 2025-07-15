@@ -8,6 +8,7 @@
 header{
 
 background-image: url('./images/Hero-bg.png');
+margin-top: -10px;
 }
 
 
@@ -46,4 +47,109 @@ background-image: url('./images/Hero-bg.png');
     border-radius: 10px;
     opacity: 100%;
     margin-bottom: 180px;
+}
+.action{
+    display: flex;
+    padding: 100px 100px;
+ justify-content: center;
+background-color: #f5f8ff;
+
+}
+.action-pic{
+margin-left: 100px;
+    border: none;
+    border-radius: 48px;
+    height: 328px;
+    width: 403px;
+   
+}
+
+.action-text{
+
+margin-right: 220px;
+    font-size: x-large;
+}
+.btn-3{
+     color: white;
+    height: 48px;
+    width: 229px;
+    background-color: #4E47FF;
+    border:none;
+    border-radius: 10px;
+    opacity: 100%;
+    margin-bottom: 180px;
+}
+
+
+
+
+
+.productive{
+   
+    background-color: #f5f8ff;
+    margin-top: -23px;
+    padding-bottom: 160px;
+   
+   
+    text-align: center;
+   
+   
+}
+.pro-0{
+    display: flex;
+    justify-content: center;
+   margin-top: -60px;
+   margin-bottom: 150px;
+    background-color: #e5e7ff;
+ margin-left: 250px;
+margin-right: 250px;
+border-radius: 24px;
+
+
+}
+.pro-1{
+    padding-right: 90px;
+    
+}
+.pro-2{
+    padding-right: 90px;
+   
+}
+.pro-text{
+    color: #4E47FF;
+    font-size: 80px;
+}
+.pro-text-2{
+    margin-top: -50px;
+}
+.s-pic{
+    display: flex;
+}
+.review{
+     background-color: #f5f8ff;
+    margin-top: -150px;
+    padding-bottom: 100px;
+}
+.mother-card{
+    display: flex;
+    justify-content: center;
+    
+}
+.btn-3rd{
+    border-radius: 14px;
+    background-color: #FFFFFF;
+    color: black;
+    padding: 24px 24px;
+    
+    margin-right: 20px;
+width: 415.5px;
+height: 243px;
+
+}
+.small-pic{
+    height: 40px;
+    width: 40px;
+}
+.last-line{
+    margin-left: 15px;
 }
